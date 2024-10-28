@@ -4,7 +4,6 @@
 
 ## What is a Bot/Tool for Reporting an Account on Instagram ❓
 
-*  Definition of a Bot/Tool:.
   * <p>A bot/Tool is an automated software program designed to perform specific tasks online. In the context of social media platforms like Instagram, bots can be programmed to report accounts based on certain criteria.</p>
   * Functionality of this Bot/Tool: 
 * <p>Functionality of this Bot/Tool: When an account is massively reported, regardless of the content on the account, the account will be deleted anyway. On Instagram, reporting bots are typically used to flag accounts that violate community guidelines or exhibit spam-like behavior. the bot can submit reports without requiring human intervention.</p>
