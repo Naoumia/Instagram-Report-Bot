@@ -1,7 +1,7 @@
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
 <h1 align="center">INSTAGRAM REPORT BOT</h1>
-<h1 align="center">Join our telegram here > <a href="https://tinyurl.com/mr3ecrzv"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a></h1>
+<h2 align="center">Join our telegram here > <a href="https://tinyurl.com/mr3ecrzv"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a></h2>
 
 ## What is a Bot/Tool for Reporting an Account on Instagram ❓
    Definition of a Bot/Tool:.
